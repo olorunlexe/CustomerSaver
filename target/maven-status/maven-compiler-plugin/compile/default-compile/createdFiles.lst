@@ -1,0 +1,8 @@
+com\interswitch\model\Customer_.class
+com\interswitch\client\ApplicationConfig.class
+com\interswitch\controller\CustomerController.class
+com\interswitch\controller\CustomerControllerLocal.class
+com\interswitch\model\Customer.class
+com\interswitch\util\ServiceResponse.class
+com\interswitch\client\CustomerResource.class
+com\interswitch\util\Utility.class
